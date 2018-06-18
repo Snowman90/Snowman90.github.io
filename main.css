@@ -1,3 +1,4 @@
+/* Własny plik z czcionką ME */
 @font-face {
     font-family: meFont;
     src: url(me123.ttf);
@@ -33,7 +34,6 @@ p
     letter-spacing: 2px;
     margin-top: 5px;
     margin-bottom: 25px;
-
 }
 
 main {
@@ -48,39 +48,7 @@ article {
 
 }
 
-.card
-{
-    width: 125px;
-    height: 125px;
-    display: inline-block;
-    margin: 3px;
-    background-image:  url("img/karta.png");
-    border: 4px solid #51c8b2;
-    border-radius: 4px;
-    cursor: pointer;
-    filter: brightness(70%);
-    transition: all .3s ease-in-out;
-}
 
-.card:hover
-{
-    border: 4px solid #e9b64a;
-    filter: brightness(100%);
-}
-
-.cardA
-{
-    width: 125px;
-    height: 125px;
-    display: inline-block;
-    margin: 3px;
-    background-image:  url("img/karta.png");
-    border: 4px solid #e9b64a;
-    border-radius: 4px;
-    cursor: default;
-    filter: brightness(100%);
-    transition: all .3s ease-in-out;
-}
 
 .score
 {
@@ -89,12 +57,6 @@ article {
 
 }
 
-.button
-{
-    margin-top: 5px;
-    letter-spacing: 2px;
-
-}
 
 .board {
     display: flex;
@@ -118,14 +80,15 @@ article {
 }
 
 .field .card {
-    width: 110px;
-    height: 110px;
-    padding: 0;
+    width: 125px;
+    height: 125px;
+    display: inline-block;
     margin: 3px;
-    background: url("img/karta.png") no-repeat;
-    background-size: cover;
+    background-image:  url("img/karta.png");
+    border: 4px solid #51c8b2;
+    border-radius: 4px;
     cursor: pointer;
-    filter: brightness(80%);
+    filter: brightness(70%);
     transition: all .3s ease-in-out;
 }
 
