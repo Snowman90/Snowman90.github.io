@@ -80,16 +80,19 @@ article {
 }
 
 .field .card {
-    width: 125px;
-    height: 125px;
-    display: inline-block;
+
+    width: 110px;
+    height: 110px;
+    padding: 0;
     margin: 3px;
-    background-image:  url("img/karta.png");
+    background: url("img/karta.png") no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    filter: brightness(80%);
+    transition: all .3s ease-in-out;
     border: 4px solid #51c8b2;
     border-radius: 4px;
-    cursor: pointer;
-    filter: brightness(70%);
-    transition: all .3s ease-in-out;
+    display: inline-block;
 }
 
 .field .card:hover {
@@ -110,7 +113,7 @@ article {
     transition: all .3s ease-in-out;
 }
 .easy {
-    width: 600px;
+    width: 500px;
 }
 
 
