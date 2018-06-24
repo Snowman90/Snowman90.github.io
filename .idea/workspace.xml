@@ -16,25 +16,25 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="115">
               <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            <state relative-caret-position="49">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memory.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="memory.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/memory.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2292" />
+            <state relative-caret-position="-2257" />
           </provider>
         </entry>
       </file>
@@ -170,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529260156930</updated>
       <workItem from="1529260158156" duration="307000" />
-      <workItem from="1529266701189" duration="3519000" />
+      <workItem from="1529266701189" duration="4456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3826000" />
+    <option name="totallyTimeSpent" value="4763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -223,21 +223,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="115">
           <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/memory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2292" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
+        <state relative-caret-position="-2257" />
       </provider>
     </entry>
   </component>
